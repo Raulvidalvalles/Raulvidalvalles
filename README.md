@@ -69,7 +69,7 @@ Además de la programación, me apasionan otras áreas de la tecnología:
 
 <p align="left">
   <a href="https://linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge](https://www.linkedin.com/in/ra%C3%BAl-vidal-vall%C3%A9s-515a7636a/)&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
 </p>
