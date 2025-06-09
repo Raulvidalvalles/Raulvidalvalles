@@ -68,8 +68,8 @@ Además de la programación, me apasionan otras áreas de la tecnología:
 ¡Siempre estoy abierto a conectar con otros entusiastas de la tecnología y a colaborar en proyectos interesantes!
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge](https://www.linkedin.com/in/ra%C3%BAl-vidal-vall%C3%A9s-515a7636a/)&logo=linkedin&logoColor=white" alt="LinkedIn">
+ <a href="https://linkedin.com/in/raúl-vidal-vallés-515a7636a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
 </p>
