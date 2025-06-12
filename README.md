@@ -1,14 +1,14 @@
 # ¡Hola! Soy Raúl Vidal 👋
 
 <a href="https://github.com/Raulvidalvalles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raulvidalvalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raulvidalvalles&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/Raulvidalvalles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvidalvalles&layout=compact&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvidalvalles&layout=compact&theme=matrix"/>
 </a>
 
 
