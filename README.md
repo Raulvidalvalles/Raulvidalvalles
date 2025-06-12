@@ -7,6 +7,14 @@
 <br/>
 <br/>
 
+<a href="https://github.com/Raulvidalvalles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvidalvalles&layout=compact&theme=dracula"/>
+</a>
+
+
+<br/>
+<br/>
+
 Soy un apasionado estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un gran interés en crear soluciones tecnológicas que sean tanto funcionales como innovadoras. Me encanta aprender constantemente y aplicar mis conocimientos en proyectos reales.
 
 Actualmente, estoy realizando mis prácticas profesionales, donde he tenido la oportunidad de trabajar en proyectos web y de aplicaciones móviles, reforzando mis habilidades y adquiriendo experiencia en un entorno de desarrollo ágil.
