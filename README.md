@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/Raulvidalvalles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvidalvalles&layout=compact&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvidalvalles&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 
 
